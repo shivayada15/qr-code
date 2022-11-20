@@ -1,0 +1,43 @@
+img{
+    
+    
+    width : 1050%;
+    margin-bottom: 280px;
+    border-radius: 5%;
+    
+    
+
+}
+body{
+    margin:0;
+    background-color: aliceblue;
+    
+    
+    
+}
+.rec{
+    
+ 
+   display:grid;
+   background-color: white;
+   margin:100px 550px auto 550px;
+   border-radius: 5%;
+
+    
+} 
+.text{
+    line-height: 1.5;
+    width: 80%;
+    margin : auto;
+    margin-left: 1cm;
+    margin-bottom: auto;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mid{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 200px 200px 0px 200px;
+}
